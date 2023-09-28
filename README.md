@@ -1,16 +1,23 @@
-### Hi there 👋
+# Backend Developer Profile | NUST MISIS
 
-<!--
-**maj0rio/maj0rio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! I am a Backend Developer and a student at NUST MISIS. My name is Vanya, and I am passionate about creating efficient solutions using Python and C++. Currently, I am also actively learning Go to expand my skills and knowledge.
 
-Here are some ideas to get you started:
+## Education
+- University: NUST MISIS
+- Degree: Bachelor's (expected)
+- Major: Information Technology and Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Python, C++, Go
+- Frameworks: Django, FastApi
+- Databases: PostgreSQL, MySQL, SQlite
+- Web Technologies: HTML, CSS
+- Docker, Linux
+- Competitive Programming
+
+## Contact Me
+- Email: fadeevvanya13@yandex.ru
+- Telegram: @maj0rio
+
+Let's work together to create high-quality software!
