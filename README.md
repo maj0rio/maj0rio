@@ -1,4 +1,4 @@
-# Backend Developer Profile | NUST MISIS
+## Fadeev Ivan
 
 ## About Me
 Hello! I am a Backend Developer and a student at NUST MISIS. My name is Vanya, and I am passionate about creating efficient solutions using Python and C++. Currently, I am also actively learning Go to expand my skills and knowledge.
