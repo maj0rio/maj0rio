@@ -10,6 +10,7 @@ Hello! I am a Backend Developer and a student at NUST MISIS. My name is Vanya, a
 - Programming Languages: Python, C++, Go
 - Frameworks: Django, FastApi
 - Databases: PostgreSQL, MySQL, SQlite
+- ORMs: SQLAlchemy, DjangoORM
 - Web Technologies: HTML, CSS
 - Docker, Linux
 - Competitive Programming
