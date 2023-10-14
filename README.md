@@ -15,8 +15,4 @@ Hello! I am a Backend Developer and a student at NUST MISIS. My name is Vanya, a
 - Docker, Linux
 - Competitive Programming
 
-## Contact Me
-- Email: fadeevvanya13@yandex.ru
-- Telegram: @maj0rio
-
 Let's work together to create high-quality software!
